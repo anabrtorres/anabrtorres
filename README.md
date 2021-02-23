@@ -1,4 +1,3 @@
-```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Ana Torres
@@ -13,5 +12,3 @@
  [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-anabrtorres19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
-
-```
