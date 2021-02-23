@@ -1,16 +1,17 @@
-### Hi there 👋
+```markdown
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**anabrtorres/anabrtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ana Torres
 
-Here are some ideas to get you started:
+## Front-End Developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NextJS
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, séries, filmes e música.
+ <br/> :email: &nbsp; Entre em contato comigo:
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-anabrtorres19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
+
+```
