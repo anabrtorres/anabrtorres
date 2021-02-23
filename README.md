@@ -11,7 +11,7 @@ Curte tecnologias, séries, filmes e música. Atualmente estagiando como front-e
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
 
 
-### Tecnologias:
+## Tecnologias:
 
 <img align="left" alt="html5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
 <img align="left" alt="css3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
