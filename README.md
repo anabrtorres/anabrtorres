@@ -1,9 +1,8 @@
 # Ana Torres
+<img align="right" width="300" src="anatorres.png">
 :computer: Front-End Developer
 
 ## Sobre:
-<img align="right" width="300" src="anatorres.png">
-
 Curte tecnologias, séries, filmes e música. Atualmente estagiando como front-end na empresa Terras Gerais. Além disso, trabalhando em dois projetos como front-end, um em uma empresa de móveis e outro em uma empresa de limpeza (no momento na parte do design). Sempre estudando o desenvolvimento front-end através de cursos. Graduanda em Ciência da computação tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
 
 ## Contato:
