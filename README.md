@@ -3,9 +3,9 @@
 :computer: Front-End Developer | Ciência da Computação - UFLA
 
 ## Sobre:
-• Curte tecnologias, séries, filmes e música.
-• Atualmente estagiando como front-end na empresa Terras Gerais.
-• Além disso, trabalhando em dois projetos como front-end, um em uma empresa de móveis e outro em uma empresa de limpeza (no momento na parte do design). Sempre estudando o desenvolvimento front-end através de cursos.
+• Curte tecnologias, séries, filmes e música. <br/>
+• Atualmente estagiando como front-end na empresa Terras Gerais.<br/>
+• Além disso, trabalhando em dois projetos como front-end, um em uma empresa de móveis e outro em uma empresa de limpeza (no momento na parte do design). Sempre estudando o desenvolvimento front-end através de cursos.<br/>
 • Tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
 
 ## Contato:
