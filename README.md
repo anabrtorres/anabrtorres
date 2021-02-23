@@ -6,6 +6,6 @@
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, séries, filmes e música.
  <br/> :email: &nbsp; Entre em contato comigo:
  
- [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Ana Torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-anabrtorres19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
