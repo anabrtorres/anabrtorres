@@ -1,9 +1,6 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 # Ana Torres
 
 ## Front-End Developer :computer:
-
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NextJS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, séries, filmes e música.
