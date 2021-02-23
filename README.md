@@ -5,7 +5,7 @@
 ## Sobre:
 • Curte tecnologias, séries, filmes e música. <br/>
 • Atualmente estagiando como front-end na empresa Terras Gerais.<br/>
-• Trabalhando em dois projetos como front-end: numa empresa de móveis e outra de limpadores de casas (no momento na parte do design).<br/>
+• Trabalhando em dois projetos como front-end: em uma empresa de móveis e outra de limpadores de casas (no momento na parte do design).<br/>
 • Tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
 
 ## Contato:
