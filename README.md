@@ -4,7 +4,7 @@
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NextJS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, séries, filmes e música.
- <br/> :email: &nbsp; Entre em contato comigo:
+ <br/> :raised_hand: &nbsp; Entre em contato comigo:
  
  [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
