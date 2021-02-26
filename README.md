@@ -11,7 +11,7 @@
 ## Contato:
  Linkedin e email:
  <br/>
- [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tgmarinho/)
+ [![Linkedin Badge](https://img.shields.io/badge/-AnaTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/anabrtorres/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:anabrtorres19@gmail.com)
 
 
