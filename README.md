@@ -4,7 +4,7 @@
 
 ## Sobre:
 • Curte tecnologias, séries, filmes e música. <br/>
-• Atualmente trabalhando como desenvolvedora junior na empresa Netimóveis.<br/>
+• Atualmente trabalhando como dev junior na Netimóveis.<br/>
 • Tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
 
 ## Contato:
