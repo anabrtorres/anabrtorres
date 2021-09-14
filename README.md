@@ -4,8 +4,7 @@
 
 ## Sobre:
 • Curte tecnologias, séries, filmes e música. <br/>
-• Atualmente estagiando como front-end na empresa Terras Gerais.<br/>
-• Trabalhando em dois projetos no front: em uma empresa de móveis e outra de limpadores de casas.<br/>
+• Atualmente trabalhando como desenvolvedora junior na empresa Netimóveis.<br/>
 • Tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
 
 ## Contato:
