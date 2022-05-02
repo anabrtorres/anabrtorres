@@ -2,11 +2,6 @@
 <img align="right" width="300" src="anatorres.png">
 :computer: Front-End Developer | Ciência da Computação - UFLA
 
-## Sobre:
-• Curte tecnologias, séries, filmes e música. <br/>
-• Atualmente trabalhando como dev junior na Netimóveis e estudando Ciência da Computação na UFLA.<br/>
-• Tem muita vontade de aprender e estar em constante evolução pessoal e profissional. 
-
 ## Contato:
  Linkedin e email:
  <br/>
