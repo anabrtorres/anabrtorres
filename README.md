@@ -1,6 +1,7 @@
 # Ana Torres
 <img align="right" width="300" src="anatorres.png">
-:computer: Front-End Developer | Ciência da Computação - UFLA
+:computer: Front-End Developer
+🎓 Ciência da Computação - UFLA
 
 ## Contato:
  Linkedin e email:
