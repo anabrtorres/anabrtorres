@@ -18,3 +18,5 @@
 <img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
 <img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
 <img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
+
+![Hackeada](https://c.tenor.com/lPjVxg0BXJ4AAAAC/gandalf-happy.gif)
